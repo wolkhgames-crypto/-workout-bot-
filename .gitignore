@@ -9,6 +9,9 @@ __pycache__/
 # User data (runtime generated)
 user_data.json
 
+# Backup files
+*.bak
+
 # IDE
 .idea/
 .vscode/
